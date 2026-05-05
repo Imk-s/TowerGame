@@ -1,0 +1,3 @@
+"D:\Visual Studio\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\TowerGame.dir/objects.a
+D:\Mingw-64\mingw64\bin\ar.exe qc CMakeFiles\TowerGame.dir/objects.a @CMakeFiles\TowerGame.dir\objects1.rsp
+D:\Mingw-64\mingw64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\TowerGame.dir/objects.a -Wl,--no-whole-archive -o TowerGame.exe -Wl,--out-implib,libTowerGame.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\TowerGame.dir\linkLibs.rsp

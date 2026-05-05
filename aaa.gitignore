@@ -1,0 +1,17 @@
+# 忽略 CMake 生成的构建目录
+build/
+build-*/
+
+# 忽略 Qt 用户的本地配置
+CMakeLists.txt.user
+
+# 忽略打包部署生成的文件夹（换成你刚才建的那个文件夹名）
+TowerGameCpp/
+
+# 忽略可执行文件和压缩包
+*.exe
+*.zip
+*.dll
+
+# 忽略 VS Code 的本地配置
+.vscode/

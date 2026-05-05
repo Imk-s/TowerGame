@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-0d09017831e5e994c171.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "TowerGame",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "TowerGame::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TowerGame-Debug-0dcb3bd075cd68655930.json",
+					"name" : "TowerGame",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TowerGame_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TowerGame_autogen-Debug-e4e483c851fc47d0fbb1.json",
+					"name" : "TowerGame_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TowerGame_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TowerGame_autogen_timestamp_deps-Debug-de68d1bc2d6df0858241.json",
+					"name" : "TowerGame_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/MycppCode/Qt/TowerGame/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug",
+		"source" : "D:/MycppCode/Qt/TowerGame"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

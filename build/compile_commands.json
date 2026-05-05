@@ -1,0 +1,92 @@
+[
+{
+  "directory": "D:/MycppCode/Qt/TowerGame/build",
+  "command": "D:\\Mingw-64\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/TowerGame.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\TowerGame.dir\\TowerGame_autogen\\mocs_compilation.cpp.obj -c D:\\MycppCode\\Qt\\TowerGame\\build\\TowerGame_autogen\\mocs_compilation.cpp",
+  "file": "D:/MycppCode/Qt/TowerGame/build/TowerGame_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/TowerGame.dir/TowerGame_autogen/mocs_compilation.cpp.obj"
+},
+{
+  "directory": "D:/MycppCode/Qt/TowerGame/build",
+  "command": "D:\\Mingw-64\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/TowerGame.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\TowerGame.dir\\main.cpp.obj -c D:\\MycppCode\\Qt\\TowerGame\\main.cpp",
+  "file": "D:/MycppCode/Qt/TowerGame/main.cpp",
+  "output": "CMakeFiles/TowerGame.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/MycppCode/Qt/TowerGame/build",
+  "command": "D:\\Mingw-64\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/TowerGame.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\TowerGame.dir\\widget.cpp.obj -c D:\\MycppCode\\Qt\\TowerGame\\widget.cpp",
+  "file": "D:/MycppCode/Qt/TowerGame/widget.cpp",
+  "output": "CMakeFiles/TowerGame.dir/widget.cpp.obj"
+},
+{
+  "directory": "D:/MycppCode/Qt/TowerGame/build",
+  "command": "D:\\Mingw-64\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/TowerGame.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\TowerGame.dir\\Enemy.cpp.obj -c D:\\MycppCode\\Qt\\TowerGame\\Enemy.cpp",
+  "file": "D:/MycppCode/Qt/TowerGame/Enemy.cpp",
+  "output": "CMakeFiles/TowerGame.dir/Enemy.cpp.obj"
+},
+{
+  "directory": "D:/MycppCode/Qt/TowerGame/build",
+  "command": "D:\\Mingw-64\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/TowerGame.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\TowerGame.dir\\Monster.cpp.obj -c D:\\MycppCode\\Qt\\TowerGame\\Monster.cpp",
+  "file": "D:/MycppCode/Qt/TowerGame/Monster.cpp",
+  "output": "CMakeFiles/TowerGame.dir/Monster.cpp.obj"
+},
+{
+  "directory": "D:/MycppCode/Qt/TowerGame/build",
+  "command": "D:\\Mingw-64\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/TowerGame.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\TowerGame.dir\\Tower.cpp.obj -c D:\\MycppCode\\Qt\\TowerGame\\Tower.cpp",
+  "file": "D:/MycppCode/Qt/TowerGame/Tower.cpp",
+  "output": "CMakeFiles/TowerGame.dir/Tower.cpp.obj"
+},
+{
+  "directory": "D:/MycppCode/Qt/TowerGame/build",
+  "command": "D:\\Mingw-64\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/TowerGame.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\TowerGame.dir\\NormalTower.cpp.obj -c D:\\MycppCode\\Qt\\TowerGame\\NormalTower.cpp",
+  "file": "D:/MycppCode/Qt/TowerGame/NormalTower.cpp",
+  "output": "CMakeFiles/TowerGame.dir/NormalTower.cpp.obj"
+},
+{
+  "directory": "D:/MycppCode/Qt/TowerGame/build",
+  "command": "D:\\Mingw-64\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/TowerGame.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\TowerGame.dir\\CostSystem.cpp.obj -c D:\\MycppCode\\Qt\\TowerGame\\CostSystem.cpp",
+  "file": "D:/MycppCode/Qt/TowerGame/CostSystem.cpp",
+  "output": "CMakeFiles/TowerGame.dir/CostSystem.cpp.obj"
+},
+{
+  "directory": "D:/MycppCode/Qt/TowerGame/build",
+  "command": "D:\\Mingw-64\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/TowerGame.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\TowerGame.dir\\Map.cpp.obj -c D:\\MycppCode\\Qt\\TowerGame\\Map.cpp",
+  "file": "D:/MycppCode/Qt/TowerGame/Map.cpp",
+  "output": "CMakeFiles/TowerGame.dir/Map.cpp.obj"
+},
+{
+  "directory": "D:/MycppCode/Qt/TowerGame/build",
+  "command": "D:\\Mingw-64\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/TowerGame.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\TowerGame.dir\\Level.cpp.obj -c D:\\MycppCode\\Qt\\TowerGame\\Level.cpp",
+  "file": "D:/MycppCode/Qt/TowerGame/Level.cpp",
+  "output": "CMakeFiles/TowerGame.dir/Level.cpp.obj"
+},
+{
+  "directory": "D:/MycppCode/Qt/TowerGame/build",
+  "command": "D:\\Mingw-64\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/TowerGame.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\TowerGame.dir\\Hound.cpp.obj -c D:\\MycppCode\\Qt\\TowerGame\\Hound.cpp",
+  "file": "D:/MycppCode/Qt/TowerGame/Hound.cpp",
+  "output": "CMakeFiles/TowerGame.dir/Hound.cpp.obj"
+},
+{
+  "directory": "D:/MycppCode/Qt/TowerGame/build",
+  "command": "D:\\Mingw-64\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/TowerGame.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\TowerGame.dir\\Tank.cpp.obj -c D:\\MycppCode\\Qt\\TowerGame\\Tank.cpp",
+  "file": "D:/MycppCode/Qt/TowerGame/Tank.cpp",
+  "output": "CMakeFiles/TowerGame.dir/Tank.cpp.obj"
+},
+{
+  "directory": "D:/MycppCode/Qt/TowerGame/build",
+  "command": "D:\\Mingw-64\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/TowerGame.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\TowerGame.dir\\CannonTower.cpp.obj -c D:\\MycppCode\\Qt\\TowerGame\\CannonTower.cpp",
+  "file": "D:/MycppCode/Qt/TowerGame/CannonTower.cpp",
+  "output": "CMakeFiles/TowerGame.dir/CannonTower.cpp.obj"
+},
+{
+  "directory": "D:/MycppCode/Qt/TowerGame/build",
+  "command": "D:\\Mingw-64\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/TowerGame.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\TowerGame.dir\\LightTower.cpp.obj -c D:\\MycppCode\\Qt\\TowerGame\\LightTower.cpp",
+  "file": "D:/MycppCode/Qt/TowerGame/LightTower.cpp",
+  "output": "CMakeFiles/TowerGame.dir/LightTower.cpp.obj"
+},
+{
+  "directory": "D:/MycppCode/Qt/TowerGame/build",
+  "command": "D:\\Mingw-64\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/TowerGame.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\TowerGame.dir\\TowerGame_autogen\\EWIEGA46WW\\qrc_res.cpp.obj -c D:\\MycppCode\\Qt\\TowerGame\\build\\TowerGame_autogen\\EWIEGA46WW\\qrc_res.cpp",
+  "file": "D:/MycppCode/Qt/TowerGame/build/TowerGame_autogen/EWIEGA46WW/qrc_res.cpp",
+  "output": "CMakeFiles/TowerGame.dir/TowerGame_autogen/EWIEGA46WW/qrc_res.cpp.obj"
+}
+]

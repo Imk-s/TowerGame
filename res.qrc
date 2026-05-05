@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/background.png</file>
+        <file>assets/grass.png</file>
+        <file>assets/wall.png</file>
+        <file>assets/spawnplace.png</file>
+        <file>assets/home.png</file>
+        <file>assets/NormalTower.png</file>
+        <file>assets/cannontower.png</file>
+        <file>assets/lighttower.png</file>
+ 	<file>assets/monster.png</file>
+	<file>assets/hound.png</file>
+	<file>assets/tank.png</file>
+        <file>assets/bgm.mp3</file>
+	<file>assets/fire.wav</file>
+	<file>assets/cannonfire.wav</file>
+	<file>assets/lightfire.wav</file>
+	<file>assets/level_1.txt</file>
+	<file>assets/level_2.txt</file>
+	<file>assets/level_3.txt</file>
+	<file>assets/level_4.txt</file>
+	<file>assets/level_5.txt</file>
+    </qresource>
+</RCC>

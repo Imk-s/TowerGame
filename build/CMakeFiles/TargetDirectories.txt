@@ -1,0 +1,9 @@
+D:/MycppCode/Qt/TowerGame/build/CMakeFiles/TowerGame.dir
+D:/MycppCode/Qt/TowerGame/build/CMakeFiles/edit_cache.dir
+D:/MycppCode/Qt/TowerGame/build/CMakeFiles/rebuild_cache.dir
+D:/MycppCode/Qt/TowerGame/build/CMakeFiles/list_install_components.dir
+D:/MycppCode/Qt/TowerGame/build/CMakeFiles/install.dir
+D:/MycppCode/Qt/TowerGame/build/CMakeFiles/install/local.dir
+D:/MycppCode/Qt/TowerGame/build/CMakeFiles/install/strip.dir
+D:/MycppCode/Qt/TowerGame/build/CMakeFiles/TowerGame_autogen_timestamp_deps.dir
+D:/MycppCode/Qt/TowerGame/build/CMakeFiles/TowerGame_autogen.dir

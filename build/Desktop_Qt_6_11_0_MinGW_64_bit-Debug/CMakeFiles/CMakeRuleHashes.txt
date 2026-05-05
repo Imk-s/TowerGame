@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+3c96439091f3c7ba2f66a9e62a0a794a CMakeFiles/TowerGame_autogen
+cda57f5aafcc63bd8c95d3294314bbe4 TowerGame_autogen/EWIEGA46WW/qrc_res.cpp
+989af1ad764d2aee5ec5cae9e8c04e47 TowerGame_autogen/timestamp
